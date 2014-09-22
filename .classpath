@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="assets/cordova-plugin-device-29e09a9"/>
+	<classpathentry kind="src" path="assets/cordova-plugin-camerabackdrop/src/android"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="/Users/abradley/Documents/workspace/andoidtestlevel14/assets/cordova-android-master/framework/cordova-3.7.0-dev.jar"/>
+	<classpathentry kind="lib" path="libs/cordova-3.5.1.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
